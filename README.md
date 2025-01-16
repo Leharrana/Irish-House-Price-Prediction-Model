@@ -39,7 +39,6 @@ Best model: XGBoost Regressor with R² = 76.15% and MAE = $226,659.58.
 Stacking Regressor provided competitive performance with R² = 75.92%.
 
 
-cd house-price-prediction
 Install required Python packages:
 bash
 Copy
