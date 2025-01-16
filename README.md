@@ -39,9 +39,4 @@ Best model: XGBoost Regressor with R² = 76.15% and MAE = $226,659.58.
 Stacking Regressor provided competitive performance with R² = 75.92%.
 
 
-Install required Python packages:
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Jupyter notebook or script to preprocess data and train models.
+
